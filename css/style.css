@@ -446,6 +446,9 @@ footer p {
 }
 
 @media only screen and (max-width: 485px) {
+  body {
+    background-color: coral;
+  }
   p {
     font-size: 15px;
   }
@@ -488,6 +491,9 @@ footer p {
 }
 
 @media only screen and (max-width: 360px) {
+  body {
+    background-color: blueviolet;
+  }
   #mynavigation {
     padding: 8px;
   }
